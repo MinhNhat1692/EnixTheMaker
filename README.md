@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Developed using Rails - contact minhnhat1692@gmail.com if you want to know how to deploy.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This project was built for the brand Enix The Maker fashion shop - enixthemaker.com
+72 Tran Quang Dieu Street, Ho Chi Minh city, Viet Nam.
